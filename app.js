@@ -11,9 +11,9 @@ const users = [
 ];
 
 const test = () => {
-  return true;
+  return false;
 };
 
 const createCourse = (course) => {
-  return true
-}
+  return true;
+};
