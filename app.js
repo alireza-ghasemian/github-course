@@ -13,3 +13,7 @@ const users = [
 const test = () => {
   return true;
 };
+
+const createCourse = (course) => {
+  return true
+}
