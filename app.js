@@ -9,3 +9,7 @@ const users = [
   { id: 2, name: "Amir", email: "amir@gmail.com" },
   { id: 3, name: "Mike", email: "mike@gmail.com" },
 ];
+
+const test = () => {
+  return true;
+};
