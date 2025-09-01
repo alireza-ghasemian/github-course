@@ -45,3 +45,5 @@ Unordered:
 
 [Sabzlearn Git Course](https://google.com)
 ![GitHub-Image](https://octodex.github.com/images/dojocat.jpg)
+
+![Downloads](https://img.shields.io/badge/downloads-23M/month-red)
