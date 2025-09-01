@@ -6,7 +6,7 @@ Initial `Code`
 
 ```json
 {
-    "firstName": 'Amin",
+    "firstName": "Amin",
     "lastName": "Seedi",
     "userName": "Amin-Saeedi-Rad"
 }
